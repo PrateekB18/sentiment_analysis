@@ -1,0 +1,8 @@
+pandas
+numpy
+flask
+python-dotenv
+flask_cors
+tensorflow
+scikit-learn
+pickle
